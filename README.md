@@ -1,4 +1,4 @@
-<h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
+<h1>Projeto Spring Data JPA na Prática </h1>
 <p> Desafio - Criação de API RESTful com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</a>.<br>
 
 
